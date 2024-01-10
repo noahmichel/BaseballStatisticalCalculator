@@ -21,4 +21,4 @@ classifiers = [
 
 [project.urls]
 Documentation = "https://streamlit.io/"
-Repository = "https://github.com/noahmichel/baseballStatCalculator"
+Repository = "https://github.com/noahmichel/BaseballStatisticalCalculator"
