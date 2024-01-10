@@ -1,0 +1,24 @@
+[project]
+name = "BaseballStatisticalCalculator"
+version = "0.0.1"
+dependencies = [
+  "streamlit"
+]
+requires-python = ">=3.12"
+authors = [
+  {name = "Noah Michel", email = "noah_michel@yahoo.com"}
+]
+maintainers = [
+  {name = "Noah Michel", email = "noah_michel@yahoo.com"}
+]
+readme = "README.md"
+license = {text = "MIT License"}
+keywords = ["baseball", "stats", "statistics", "calc", "calculator"]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Programming Language :: Python"
+]
+
+[project.urls]
+Documentation = "https://streamlit.io/"
+Repository = "https://github.com/noahmichel/baseballStatCalculator"
